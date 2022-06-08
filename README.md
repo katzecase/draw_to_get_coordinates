@@ -1,0 +1,1 @@
+# draw_to_get_coordinates

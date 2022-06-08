@@ -3,7 +3,7 @@
 [ext_resource path="res://TileMap.gd" type="Script" id=1]
 [ext_resource path="res://tileset.tres" type="TileSet" id=2]
 
-[node name="Open_me_then_play_scene(press F6)" type="Node2D"]
+[node name="Open_me" type="Node2D"]
 
 [node name="TileMap" type="TileMap" parent="."]
 tile_set = ExtResource( 2 )
